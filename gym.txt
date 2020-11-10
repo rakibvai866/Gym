@@ -1,0 +1,22 @@
+font-family: 'Bree Serif', serif;
+font-family: 'Lora', serif;
+400,500,600,700
+font-family: 'Piedra', cursive;
+
+section to section - 80px
+inner section gap (large) - 40px
+inner section gap (mid) - 20px
+inner section gap (small) - 10px
+
+menu text - 20px
+butto text - 20px
+banner text - 60px
+paragraph text - 14(24)/16(26)
+section title - 32px
+section content title - 24px
+
+426×640
+300* 270
+
+#00ff9f
+#F1BE0F
